@@ -15,20 +15,13 @@ I don't just want to **learn technologies**.
 ## ⚡ My Build Loop
 
 ```text
-        THINK
-          ↓
-        BUILD
-          ↓
-        BREAK
-          ↓
-       DEBUG
-          ↓
-      UNDERSTAND
-          ↓
-       REBUILD
-          ↓
-         SHIP
-          ↺
+WHAT IF?  →  BUILD IT  →  BREAK IT  →  FIGURE IT OUT
+   ↑                                             ↓
+   └──────  MAKE IT BETTER  ←  SHIP IT  ─────────┘
+```
+
+> **Curiosity starts it. Building proves it. Iteration makes it real.**
+
 ```
 
 I don't believe you need to know everything before starting.
