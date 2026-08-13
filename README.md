@@ -22,7 +22,6 @@ WHAT IF?  →  BUILD IT  →  BREAK IT  →  FIGURE IT OUT
 
 > **Curiosity starts it. Building proves it. Iteration makes it real.**
 
-```
 
 I don't believe you need to know everything before starting.
 
