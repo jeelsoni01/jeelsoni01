@@ -1,6 +1,8 @@
-# 💫 About Me
+<p align="center">
+  <img src="./profile-banner.png" alt="Jeel Nandha - AI/ML Builder & Product Engineer" width="100%">
+</p>
 
-Hey everyone! 👋 I'm **Jeel Nandha**. I turn over-complicated AI concepts into functional, scalable reality.
+## 🧠 About Me
 
 I'm an **AI/ML student, builder, and problem solver** who enjoys taking ideas from a rough *"what if?"* to something that actually runs, ships, breaks, gets rebuilt, and eventually works the way it was supposed to.
 
